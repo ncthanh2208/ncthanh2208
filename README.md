@@ -1,21 +1,40 @@
-# Hi, I'm Thanh.
+<div style="font-family: Arial, sans-serif; color: #d1d5db; background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
-I'm working as a backend developer.
+  <h1 style="color: #facc15;">Hi, I'm Thanh.</h1>
+  <p>I'm working as a backend developer.</p>
 
-## 🛠️ Languages
-What I'm good at:
+  <hr style="border-color: #2d3748;">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+<h2>🛠️ Languages</h2>
+  <p>What I'm good at:</p>
+  <p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript">
+  </p>
 
-## 🧰 Tech Stacks
+  <hr style="border-color: #2d3748;">
 
-### Backend
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+<h2>🧰 Tech Stacks</h2>
 
-## ✨ GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncthanh2208&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncthanh2208&layout=compact&theme=dark)
+<h3>Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Golang">
+  </p>
+
+  <hr style="border-color: #2d3748;">
+
+<h2>✨ GitHub Stats</h2>
+
+<div class="half">
+  <a href="https://github.com/ncthanh2208">
+    <img src="https://github-readme-stats.vercel.app/api?username=ncthanh2208&show_icons=true&theme=dark" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/ncthanh2208">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncthanh2208&hide=python,c,c%23,PowerShell,kotlin,tex&theme=dark" alt="Top Languages" style="height: 195px;">
+  </a>
+</div>
+
+</div>
