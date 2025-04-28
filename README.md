@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Thanh.
 
-<!--
-**ncthanh2208/ncthanh2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working as a backend developer.
 
-Here are some ideas to get you started:
+## 🛠️ Languages
+What I'm good at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+
+## 🧰 Tech Stacks
+
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+
+## ✨ GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncthanh2208&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncthanh2208&layout=compact&theme=dark)
