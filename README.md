@@ -21,7 +21,8 @@
 <h3>Backend</h3>
   <p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring">
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Golang">
+    <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white" alt="Quarkus">
+    <img src="https://img.shields.io/badge/Gin_Framework-01A49C?logo=go&logoColor=white" alt="Gin Framework">
   </p>
 
   <hr style="border-color: #2d3748;">
